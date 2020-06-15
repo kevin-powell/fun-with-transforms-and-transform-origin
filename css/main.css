@@ -108,7 +108,7 @@
   padding: 2rem;
   background-image: url(https://unsplash.it/600);
   /* placeholder image */
-  backgrond-size: cover;
+  background-size: cover;
   background-color: #444;
   background-blend-mode: multiply;
   color: white;
